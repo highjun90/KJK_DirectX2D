@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="PreCompile.h" />
+    <ClInclude Include="ContentsCore.h" />
+    <ClInclude Include="CharacterSelectImage.h" />
+    <ClInclude Include="ContentsEnum.h" />
+    <ClInclude Include="LevelCharacterSelect.h" />
+    <ClInclude Include="LevelJungle.h" />
+    <ClInclude Include="LevelTitle.h" />
+    <ClInclude Include="MapImageJungle.h" />
+    <ClInclude Include="TitleImage.h" />
+    <ClInclude Include="Zero.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PreCompile.cpp" />
+    <ClCompile Include="ContentsCore.cpp" />
+    <ClCompile Include="CharacterSelectImage.cpp" />
+    <ClCompile Include="LevelCharacterSelect.cpp" />
+    <ClCompile Include="LevelJungle.cpp" />
+    <ClCompile Include="LevelTitle.cpp" />
+    <ClCompile Include="MapImageJungle.cpp" />
+    <ClCompile Include="TitleImage.cpp" />
+    <ClCompile Include="Zero.cpp" />
+  </ItemGroup>
+</Project>
